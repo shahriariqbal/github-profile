@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Architects+Daughter&size=26&color=%283593&center=true&vCenter=true&lines=Hi,+I%27m+Shahriar!;Full-Stack+Web+Developer;Tech+Enthusiast;+Open-Source+Supporter" align="center" style="width: 100%" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Architects+Daughter&size=26&color=%2523DFC6B4&center=true&vCenter=true&lines=Hi,+I%27m+Shahriar!;Full-Stack+Web+Developer;Tech+enthusiast;and+an+Open-Source+Supporter" align="center" style="width: 100%" />
 </div>  
   
 
@@ -128,11 +128,11 @@
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=shahriariqbal&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=shahriariqbal&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 
 </td><td valign="top" width="50%">
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahriariqbal&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahriariqbal&hide_border=true&layout=compact" align="center" /></div>
 
 </td></tr></table>  
 
@@ -144,7 +144,7 @@
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=8pjgks5g0dc7ul6uh80odq3zw&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" /></div>  
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=8pjgks5g0dc7ul6uh80odq3zw&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false" /></div>  
 
 <br/>  
 
