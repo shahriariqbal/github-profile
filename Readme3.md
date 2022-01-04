@@ -157,7 +157,7 @@
 
 <br/>  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahriariqbal&hide_border=true&layout=compact" align="left" style="width: 100%" />  
+<img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=nord" align="left" style="width: 100%" />  
 
 <br/>  
 
