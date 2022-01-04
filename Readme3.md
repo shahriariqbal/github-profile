@@ -135,7 +135,7 @@
 <tr>
 <td valign="top" colspan="2" width="100%">
 
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=nord" align="center"  /></div>
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=nord&row=1&column=8" align="center" style="width: 100%" /></div>
 
 </td>
 </tr>
