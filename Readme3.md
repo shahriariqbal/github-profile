@@ -131,6 +131,15 @@
 
 ## <div align="center">Github Stats</div>
 <table>
+
+<tr>
+<td valign="top" width="100%">
+
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?shahriariqbal=ryo-ma&theme=nord" align="center" style="width: 100%" /></div>
+
+</td>
+</tr>
+
 <tr>
 <td valign="top" width="50%">
 
