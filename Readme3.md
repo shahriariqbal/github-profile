@@ -165,7 +165,7 @@
 
 </td><td valign="top" width="50%">
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahriariqbal&hide_border=true&layout=compact&theme=prussian" align="center" style="width: 100%" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahriariqbal&hide_border=true&layout=compact&theme=github" align="center" style="width: 100%" /></div>
 
 </td>
 </tr>
