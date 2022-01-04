@@ -6,8 +6,9 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=shahriariqbal&&style=flat-square" align="center" />
 <img src="https://badges.pufler.dev/years/shahriariqbal" align="center" />
-<img src="https://komarev.com/ghpvc/?username=shahriariqbal&&style=flat-square" align="center" />
-<img src="https://komarev.com/ghpvc/?username=shahriariqbal&&style=flat-square" align="center" />
+<img src="https://badges.pufler.dev/repos/shahriariqbal" align="center" />
+<img src="https://badges.pufler.dev/gists/shahriariqbal" align="center" />
+<img src="https://badges.pufler.dev/commits/monthly/shahriariqbal" align="center" />
 </div>  
   
 
