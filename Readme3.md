@@ -133,7 +133,7 @@
 
 <br/>  
 
-<img src="https://github-profile-trophy.vercel.app/?username=shahriariqbal&theme=nord&row=1&column=8" align="center" style="width: 100%" />  
+<img src="https://github-profile-trophy.vercel.app/?username=shahriariqbal&theme=nord&row=1&column=7" align="center" style="width: 100%" />  
 
 <br/>  
 
