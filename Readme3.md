@@ -133,19 +133,19 @@
 
 <br/>  
 
-<img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=nord&row=1&column=8" align="center" style="width: 100%" />  
+<img src="https://github-profile-trophy.vercel.app/?username=shahriariqbal&theme=nord&row=1&column=8" align="center" style="width: 100%" />  
 
 <br/>  
 
 <table>
 
-<tr>
+<!-- <tr>
 <td valign="top" colspan="2" width="100%">
 
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=nord&row=1&column=8" align="center" style="width: 100%" /></div>
 
 </td>
-</tr>
+</tr> -->
 
 <tr>
 <td valign="top" width="50%">
@@ -171,11 +171,11 @@
 </tr>
 </table>  
 
-<br/>  
+<!-- <br/>  
 
 <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=nord" align="left" style="width: 100%" />  
 
-<br/>  
+<br/>  --> 
 
 
 
