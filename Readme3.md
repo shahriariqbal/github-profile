@@ -26,10 +26,10 @@
 <br/>  
 
 
-## My Skill Set  
+## <div align="center">My Skill Set</div>
 
 
-### Programming Language  
+### <div align="center">Programming Language</div>
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25" />  
@@ -42,7 +42,7 @@
 
 
 
-### Frontend Technology  
+### <div align="center">Frontend Technology</div>
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="25" />  
@@ -54,7 +54,7 @@
 
 
 
-### Backend Technology  
+### <div align="center">Backend Technology</div>
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" />  
@@ -63,7 +63,7 @@
 
 
 
-### Database  
+### <div align="center">Database</div>
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" />  
@@ -73,7 +73,7 @@
 
 
 
-### Other  
+### <div align="center">Other</div>
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="25" />  
@@ -89,10 +89,10 @@
 <br/>  
 
 
-## Connect with me  
+## <div align="center">Connect with me</div>
 
 
-### Social Network  
+### <div align="center">Social Network</div>
 <div align="center">
 <a href="https://twitter.com/shahriar__iqbal" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
@@ -105,7 +105,7 @@
 
 
 
-### Developer Profile  
+### <div align="center">Developer Profile</div>
 <div align="center">
 <a href="https://github.com/shahriariqbal" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -125,7 +125,7 @@
 <br/>  
 
 
-## Github Stats  
+## <div align="center">Github Stats</div>
 <table><tr><td valign="top" width="50%">
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=shahriariqbal&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>
@@ -144,7 +144,7 @@
 
 
 
-### Listening....  
+### <div align="center">Listening....</div>   
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=8pjgks5g0dc7ul6uh80odq3zw&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false" /></div>  
 
 <br/>  
@@ -157,4 +157,4 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">-- <a href="" target="_blank">Shahriar</a></div>
