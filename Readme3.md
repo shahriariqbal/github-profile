@@ -132,7 +132,7 @@
 ## <div align="center">Github Stats</div>
 <table><tr><td valign="top" width="50%">
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=shahriariqbal&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=shahriariqbal&show_icons=true&count_private=true&hide_border=true&theme=gruvbox" align="center" style="width: 100%" /></div>
 
 </td><td valign="top" width="50%">
 
