@@ -177,7 +177,8 @@
 
 <br/>  --> 
 
-
+### <div align="center">Blog</div>   
+<div align="center"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=shahriar__iqbal&layout=wid" /></div>  
 
 ### <div align="center">Listening....</div>   
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=8pjgks5g0dc7ul6uh80odq3zw&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false" /></div>  
