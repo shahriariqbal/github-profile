@@ -160,7 +160,7 @@
 <tr>
 <td valign="top" colspan="2" width="100%">
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahriariqbal&hide_border=true&layout=compact&theme=prussian" align="center" style="width: 60%" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahriariqbal&hide_border=true&layout=compact&theme=prussian" align="center" style="width: 100%" /></div>
 
 </td>
 </tr>
