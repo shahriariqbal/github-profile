@@ -149,8 +149,8 @@
 
 <tr>
 <td valign="top" width="50%">
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=shahriariqbal&show_icons=true&count_private=true&hide_border=true&theme=prussian" align="center" style="width: 100%" /></div>
+<!-- https://github-readme-stats.vercel.app/api?username=shahriariqbal&show_icons=true&count_private=true&hide_border=true&theme=prussian -->
+<div align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=shahriariqbal&theme=prussian&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" align="center" style="width: 100%" /></div>
 
 </td><td valign="top" width="50%">
 
