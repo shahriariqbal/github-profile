@@ -169,6 +169,14 @@
 
 </td>
 </tr>
+
+<tr>
+<td valign="top" colspan="2" width="100%">
+
+<div align="center"><img src="https://activity-graph.herokuapp.com/graph?username=shahriariqbal&theme=gruvbox&hide_border=true&area=true" align="center" style="width: 100%" /></div>
+
+</td>
+</tr>
 </table>  
 
 <!-- <br/>  
