@@ -1,6 +1,12 @@
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Architects+Daughter&size=26&color=%2523DFC6B4&center=true&vCenter=true&lines=Hi,+I%27m+Shahriar!;Full-Stack+Web+Developer;Tech+enthusiast;and+an+Open-Source+Supporter" align="center" style="width: 100%" />
 </div>  
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
+</div>  
   
 
 ### <div align="center">I'm Rishav, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
