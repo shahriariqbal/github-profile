@@ -8,6 +8,7 @@
 <img src="https://komarev.com/ghpvc/?username=shahriariqbal&&style=flat-square" align="center" />
 <img src="https://komarev.com/ghpvc/?username=shahriariqbal&&style=flat-square" align="center" />
 <img src="https://komarev.com/ghpvc/?username=shahriariqbal&&style=flat-square" align="center" />
+[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
 </div>  
   
 
